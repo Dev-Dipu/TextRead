@@ -1,0 +1,4 @@
+Hi from file 1
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, deleniti? Modi hic quaerat eius autem, dolores neque. In animi unde modi corrupti, quidem porro eum odio quibusdam aspernatur, soluta enim.
+--end
+its done now
